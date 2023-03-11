@@ -1,4 +1,4 @@
-# SQL-Excel-Project
+# SQL-Excel-Covid Deaths Project
 
 
 In this SQL-Excel project, using the deaths and vaccination data tables of Covid-19 from March 2020 to June 2021, I've done an exploratary analysis SQL queries.
